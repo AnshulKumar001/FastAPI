@@ -1,4 +1,4 @@
-# 📘 FastAPI Notes
+# 📘 FastAPI Notes With Code 
 
 This repository contains my **FastAPI learning notes**.
 I created this repo to post what I have studied and practiced while learning FastAPI.
